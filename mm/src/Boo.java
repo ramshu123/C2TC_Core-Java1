@@ -1,8 +1,8 @@
 
-public class Hello {
+public class Boo {
 
 	public static void main(String[] args) {
-		System.out.println("jhhdgkj");
+		System.out.println("jhghjg");
 
 	}
 

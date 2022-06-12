@@ -1,6 +1,6 @@
-package mm;
+package hu;
 
-public class Hello {
+public class Goo {
 
 	public static void main(String[] args) {
 		System.out.println("jhghjg");
